@@ -44,7 +44,7 @@ std::unique_ptr<Shape> ShapeFactory::getShapeInstance_V1(ShapeType iType)
 ShapeType ShapeFactory::getType(int iType)
 {
 	iType = iType % 3;
-	ShapeType type ;
+	ShapeType type = ShapeType::UNDEF;
 	if (iType == 0)
 	{
 		type = ShapeType::CIRCLE;
