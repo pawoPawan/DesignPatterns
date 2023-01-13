@@ -1,0 +1,1 @@
+Implementation of design patetrn in C++
