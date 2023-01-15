@@ -1,1 +1,1 @@
-# DesignPatterns in Python
+# DesignPatterns
