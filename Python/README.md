@@ -1,1 +1,1 @@
-Implementation of design patetrn in Python
+Implementation of design pattern in Python
