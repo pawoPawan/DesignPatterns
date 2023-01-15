@@ -1,1 +1,0 @@
-Implementation of command design patetrn in Python

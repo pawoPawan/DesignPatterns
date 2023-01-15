@@ -1,1 +1,1 @@
-Implementation of design patetrn in Java
+Implementation of design pattern in Java

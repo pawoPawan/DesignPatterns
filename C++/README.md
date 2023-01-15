@@ -1,1 +1,1 @@
-Implementation of design patetrn in C++
+Implementation of design pattern in C++
